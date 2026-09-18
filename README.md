@@ -19,3 +19,4 @@ A learning project where I built a basic machine learning model to predict insur
 
 ```bash
 uvicorn app:app --reload
+
